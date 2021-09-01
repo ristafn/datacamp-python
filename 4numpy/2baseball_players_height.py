@@ -1,4 +1,5 @@
 # height is available as a regular list
+height_in = []
 
 # Import numpy
 import numpy as np
